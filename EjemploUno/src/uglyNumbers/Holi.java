@@ -6,7 +6,7 @@ public class Holi {
 
 	public static void main(String[] args) {
 		int acu=1;
-		double valor=2;
+		double vaaaaaalor=2;
 		double[] vector = new double[1501];
 		vector[0]=1;
 		while(acu<=1500){
